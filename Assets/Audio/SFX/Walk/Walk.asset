@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 200812ad6af0b44a4bb1d843d31f7b29, type: 3}
+  m_Name: Walk
+  m_EditorClassIdentifier: 
+  _mixerGroup: {fileID: -1007645819942920252, guid: 47c700d1f38876242a05deacdb2d71de,
+    type: 2}
+  _clips:
+  - {fileID: 8300000, guid: 0a21a12639380a64e85b2396cf6ec842, type: 3}
+  - {fileID: 8300000, guid: 3d6c8e232f972434592bf29a285f6f46, type: 3}
+  - {fileID: 8300000, guid: be47fc0aa2b7f39479929969eface5c0, type: 3}
+  - {fileID: 8300000, guid: de2a6c8aed25adc4a960777b78b6a22d, type: 3}
+  - {fileID: 8300000, guid: 45258d73d0017f74a8eb65dc82dc1d5e, type: 3}
+  _volume: {x: 0.32999998, y: 0.71999997}
+  _pitch: {x: 1, y: 1}
+  _spatialBlend: 1
+  _reverbMix: 1
+  _rolloff: 1
+  _rollOffMin: 5
+  _rollOffMax: 200
